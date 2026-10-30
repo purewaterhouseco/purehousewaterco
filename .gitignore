@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Unused source footage; 198 MB exceeds GitHub's 100 MB file limit
+assets/pics/copy_15F56F42-EBD6-47D2-9B35-C47575DB0036.MOV
