@@ -34,6 +34,7 @@ NAV = [
     ("Service Areas", "service-areas.html", None),
     ("Our Story", "about.html", None),
     ("Blog", "blog.html", None),
+    ("Contact", "contact.html", None),
 ]
 
 
